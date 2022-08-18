@@ -1,3 +1,3 @@
 # sub-project
 Git動画講座用　サブプロジェクト
-GitHub上で更新
+GitHub上で更新(2周目)
